@@ -1,7 +1,5 @@
-<p align="center">
-  <h2>Node API-REST Project</h2>
-</p>
 
+<h1 align="center">Node API-REST Project</h1>
 
 
 <p align="center">
