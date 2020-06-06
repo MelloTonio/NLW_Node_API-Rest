@@ -4,10 +4,9 @@
   Projeto Construído durante o Next Level Week #01
 </p>
 
-<div align="center">
-  ![](gitImage/imagem.png)
-</div>
-
+<p align="center">
+  <img src="gitImage/imagem.png">
+</p>
 
 
 ## Built With
