@@ -1,5 +1,5 @@
 <p float="left">
-  <h1 align="center" >- Ecoleta -</h1>
+<h1 align="center"><i>Ecoleta</i></h1>
 <h1 align="center"><img width="80" height="80" margin-bottom="100" src="https://cdn3.iconfinder.com/data/icons/eco-flat-2/512/Ecology_recycle_recyclingwaste-512.png"><img width="80" height="80" src="https://cdn3.iconfinder.com/data/icons/eco-flat-2/512/Ecology_recycle_recyclingwaste-512.png"><img width="80" height="80" src="https://cdn3.iconfinder.com/data/icons/eco-flat-2/512/Ecology_recycle_recyclingwaste-512.png"></h1>
 </p>
 
