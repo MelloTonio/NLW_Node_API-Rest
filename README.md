@@ -1,4 +1,4 @@
-# NLW_Node_API-Rest
+# Node API-REST Project
 Projeto Construído durante o Next Level Week #01
 
 ![](gitImage/imagem.png)
