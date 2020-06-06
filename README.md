@@ -1,6 +1,9 @@
 
-<h1 align="center"><img width="80" height="80" margin-bottom="100" src="https://cdn3.iconfinder.com/data/icons/eco-flat-2/512/Ecology_recycle_recyclingwaste-512.png">Ecoleta<img width="80" height="80" src="https://cdn3.iconfinder.com/data/icons/eco-flat-2/512/Ecology_recycle_recyclingwaste-512.png"></h1>
 
+<p float="left">
+<h1 align="center"><img width="80" height="80" margin-bottom="100" src="https://cdn3.iconfinder.com/data/icons/eco-flat-2/512/Ecology_recycle_recyclingwaste-512.png"><img width="80" height="80" src="https://cdn3.iconfinder.com/data/icons/eco-flat-2/512/Ecology_recycle_recyclingwaste-512.png"><img width="80" height="80" src="https://cdn3.iconfinder.com/data/icons/eco-flat-2/512/Ecology_recycle_recyclingwaste-512.png"></h1>
+</p>
+<h1>Ecoleta</h1>
 
 <h3 align="center">
   Completed during the "Next Level Week #01", an event made by Rocketseat
