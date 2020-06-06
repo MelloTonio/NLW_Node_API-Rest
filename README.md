@@ -2,8 +2,12 @@
 <h1 align="center">Node API-REST Project</h1>
 
 
+<h3 align="center">
+  Completed during the "Next Level Week #01", an event made by Rocketseat
+</h3>
+
 <p align="center">
-  Project completed during the "Next Level Week #01", an event made by rocketseat
+  The main objective of the project is to facilitate/assist the collection of disposable waste
 </p>
 
 <p align="center">
