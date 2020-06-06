@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  Project completed during the "Next Level Week # 01"
+  Project completed during the "Next Level Week #01", an event made by rocketseat
 </p>
 
 <p align="center">
