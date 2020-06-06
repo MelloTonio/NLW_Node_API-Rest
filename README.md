@@ -1,7 +1,7 @@
 # NLW_Node_API-Rest
 Projeto Construído durante o Next Level Week #01
 
-![](gitImage/Sem título.png)
+![](gitImage/imagem.png)
 
 
 ## Built With
