@@ -18,11 +18,11 @@
 </p>
 
 
-## Built With
+## Features
 
-* Node.Js
-* React
-* React-Native
+* <strong>Node.Js</strong> -- A web framework for Js
+* <strong>React Js</strong>  -- A Javascript library for building user interfaces
+* <strong>React-Native</strong> -- A lib that provides a way to create native Apps for Android and IOS
 
 
 ## Authors
