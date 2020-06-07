@@ -9,7 +9,7 @@
 </h3>
 
 <p align="center">
-  The main objective of the project is to facilitate/assist the collection of disposable waste
+  Ecoleta is a project developed based on the International Environment Week. The goal is to connect people to companies that collect specific waste, such as light bulbs, batteries, etc.
 </p>
 
 <p align="center">
