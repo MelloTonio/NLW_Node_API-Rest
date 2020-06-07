@@ -11,6 +11,8 @@
   <img src="gitImage/imagem.png">
 </p>
 
+## Running the app
+First you have to make sure the backend is running -> [Backend](https://github.com/MelloTonio/Ecoleta_API-Rest/tree/master/backend)
 
 ## Features
 
