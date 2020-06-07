@@ -17,6 +17,12 @@
 * <strong>Node.Js</strong> -- A web framework for Js
 * <strong>React Js</strong>  -- A Javascript library for building user interfaces
 * <strong>React-Native</strong> -- A lib that provides a way to create native Apps for Android and IOS
+* <strong>[Knex](http://knexjs.org/)</strong>
+* <strong>[Multer](https://www.npmjs.com/package/multer)</strong>
+* <strong>[SQLite3](https://www.sqlite.org/index.html)</strong>
+* <strong>[Express](https://expressjs.com/pt-br/)</strong>
+* <strong>[TypeScript](https://www.typescriptlang.org/)</strong>
+
 
 
 ## Authors
