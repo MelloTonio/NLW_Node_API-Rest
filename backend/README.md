@@ -1,9 +1,10 @@
-<h1 align="center"> How to run BackEnd Config </h1>
-<br>
-<h2>Primary Setup</h2>
-run
-```ruby
-require 'redcarpet'
-markdown = Redcarpet.new("Hello World!")
-puts markdown.to_html
-```
+<h1 align="center">
+   Setting Backend
+</h1>
+
+## Primary Setup
+In this first step we will ensure that all packages needed to run the backend are installed
+
+run ```npm init ```  
+
+
