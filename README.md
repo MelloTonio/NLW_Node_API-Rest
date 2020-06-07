@@ -14,9 +14,9 @@
 
 ## Features
 
-* <strong>Node.Js</strong> -- A web framework for Js
-* <strong>React Js</strong>  -- A Javascript library for building user interfaces
-* <strong>React-Native</strong> -- A lib that provides a way to create native Apps for Android and IOS
+* <strong>[Node.Js](https://nodejs.org/)</strong>
+* <strong>[React Js](https://pt-br.reactjs.org/)</strong>
+* <strong>[React-Native](https://reactnative.dev/)</strong>
 * <strong>[Knex](http://knexjs.org/)</strong>
 * <strong>[Multer](https://www.npmjs.com/package/multer)</strong>
 * <strong>[SQLite3](https://www.sqlite.org/index.html)</strong>
