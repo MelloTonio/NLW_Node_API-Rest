@@ -7,6 +7,8 @@
 ## Packages Setup
 <i>In this first step we will ensure that all packages needed to run the web app are installed</i>
 
+<strong>IMPORTANT! - Make sure the backend is running before running the web server</strong>
+
 run ```npm install``` (This command will perform the installation of all necessary packages)
 
 ## React Scripts
