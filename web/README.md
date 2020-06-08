@@ -1,5 +1,6 @@
  <h1 align="center">
    Setting Web App
+ <p align="center"><img src="https://media.giphy.com/media/eNFWxoRR2UyEllwIEy/giphy.gif" width="550" height="400" /></p>
 </h1>
 
 ## Packages Setup
@@ -11,5 +12,3 @@ run ```npm install``` (This command will perform the installation of all necessa
 <i>In this step we will run react ''npm start'' to start our server</i>
 
 After installing all required packages you have to run run ```npm start``` (Irá rodar o servidor na porta 3000)
-
-<p align="center"><img src="https://media.giphy.com/media/eNFWxoRR2UyEllwIEy/giphy.gif" width="550" height="400" /></p>
