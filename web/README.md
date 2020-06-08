@@ -1,4 +1,4 @@
-<h1 align="center">
+ h1 align="center">
    Setting Web App
 </h1>
 
@@ -12,7 +12,4 @@ run ```npm install``` (This command will perform the installation of all necessa
 
 After installing all required packages you have to run run ```npm start``` (Irá rodar o servidor na porta 3000)
 
-
-[Running web](https://media.giphy.com/media/eNFWxoRR2UyEllwIEy/giphy.gif)
-
-
+<p align="center"><img src="https://media.giphy.com/media/eNFWxoRR2UyEllwIEy/giphy.gif" width="550" height="400" /></p>
