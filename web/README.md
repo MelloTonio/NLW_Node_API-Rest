@@ -1,6 +1,6 @@
  <h1 align="center">
    Setting Web App
- <br>
+ <br><br>
  <p align="center"><img src="https://media.giphy.com/media/eNFWxoRR2UyEllwIEy/giphy.gif" width="550" height="400" /></p>
 </h1>
 
